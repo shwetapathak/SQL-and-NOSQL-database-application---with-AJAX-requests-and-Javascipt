@@ -1,0 +1,2 @@
+module BoundaryDetailsHelper
+end
